@@ -21,7 +21,7 @@ Automation & control engineering student at the **University of Žilina (FEIT)**
 
 ### 📌 Featured projects
 
-**[Kinevia](https://github.com/ValasekMaros/Kinevia)** - Medical motion analysis system
+**[Kinevia]()** - Medical motion analysis system
 > Server-side processing with a clean, usable GUI for motion analysis.
 
 **[Framework-Benchmark-Data](https://github.com/DePolarBear/Framework-Benchmark-Data)** - FastAPI vs Django performance study
