@@ -4,7 +4,7 @@ Automation & control engineering student at the **University of Žilina (FEIT)**
 
 - 🔬 R&D at UNIZA Research Centre - prototype design, software, testing
 - 🎓 MSc student in Process Control & Cybernetics
-- 📄 Co-author of a paper on disdrometer-based environmental sensing (*Communications - Scientific Letters of the University of Žilina*, 2026)
+- 📄 Co-author of a paper on **[Disdrometer-based environmental sensing](https://komunikacie.uniza.sk/artkey/csl-202601-0012_enhancing-the-transport-safety-through-disdrometer-based-environmental-sensing.php)** (*Communications - Scientific Letters of the University of Žilina*, 2026)
 - ⚙️ Interested in: automation, control systems, embedded devices, signal processing
 
 ---
