@@ -29,4 +29,4 @@ Automation & control engineering student at the **University of Žilina (FEIT)**
 
 ---
 
-You can also visit my itch.io profile witch my Blender 3D models **[itch.io/depolarbear](https://depolarbear.itch.io/)**
+You can also visit my itch.io profile with my Blender 3D models **[itch.io/depolarbear](https://depolarbear.itch.io/)**
