@@ -27,4 +27,6 @@ Automation & control engineering student at the **University of Žilina (FEIT)**
 **[Framework-Benchmark-Data](https://github.com/DePolarBear/Framework-Benchmark-Data)** - FastAPI vs Django performance study
 > Empirical HTTP + WebSocket benchmarks across x86-64 and ARM (Raspberry Pi 5), using vegeta and k6.
 
+---
+
 You can also visit my itch.io profile witch my Blender 3D models **[itch.io/depolarbear](https://depolarbear.itch.io/)**
