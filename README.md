@@ -1,4 +1,4 @@
-# Hello, I'm Tomáš 👋
+# Hello, I'm Tomáš
 
 Automation & control engineering student at the **University of Žilina (FEIT)**, currently in R&D at the **University Research Centre**. I work where hardware meets software - from PLC and embedded systems to the applications that drive them.
 
