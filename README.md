@@ -11,7 +11,7 @@ Automation & control engineering student at the **University of Žilina (FEIT)**
 
 ### 🛠️ Tech I work with
 
-**Languages:** C · C++ · Python
+**Languages:** C · C++ · C# · Python
 
 **Automation:** Siemens TIA Portal · B&R Automation Studio · Arduino
 
